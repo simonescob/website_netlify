@@ -5,7 +5,7 @@ function App() {
     <div className="App">
       <header className="App-header">
         <p>
-          Esto es una prueba para deploy, y hay cambios
+          Esto es una prueba para deploy
         </p>
       </header>
     </div>
