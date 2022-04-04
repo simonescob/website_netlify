@@ -5,7 +5,7 @@ function App() {
     <div className="App">
       <header className="App-header">
         <p>
-          Mi página hecha en React.JS y subida a Netlify
+          Esto es una prueba para deploy
         </p>
       </header>
     </div>
